@@ -1,0 +1,60 @@
+
+body {
+  background-color: #EBEBEB;
+}
+
+h1, h2, h3 {
+  color: #black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  line-height: %80;
+  text-align: center;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: black;
+}
+
+.header{
+  text-align: center;
+}
+
+.small_links{
+  text-align: center;
+  font-size: 14px;
+}
+
+.container{
+  width: 500px;
+  margin: 0 auto;
+
+}
+
+.opening_card{
+  width: 500px;
+  margin: 0 auto;
+  padding: 0px 20px 10px 0px;
+  background-color: #BFC0C0;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px
+}
+
+.card{
+  width: 500px;
+  margin: 0 auto;
+  padding: 0px 10px;
+  background-color: #BFC0C0;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px
+}
+
+.end_card{
+  width: 500px;
+  margin: 0 auto;
+  padding: 0px 10px 15px 10px;
+  background-color: #BFC0C0;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px
+}
